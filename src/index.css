@@ -1,0 +1,20 @@
+@import 'tailwindcss';
+
+@theme {
+  --font-display: 'Cormorant Garamond', Georgia, serif;
+  --font-body: 'DM Sans', system-ui, sans-serif;
+  --color-gold: #c9a962;
+  --color-gold-light: #e8d5a3;
+  --color-charcoal: #1a1a1a;
+  --color-cream: #faf8f5;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-cream font-body text-charcoal antialiased;
+  }
+}

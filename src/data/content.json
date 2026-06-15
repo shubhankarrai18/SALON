@@ -1,0 +1,90 @@
+{
+  "salonName": "Test Salon",
+  "heroTitle": "Where Beauty Meets Excellence",
+  "heroSubtitle": "Premium hair and styling services tailored to you",
+  "heroCta": "Reserve Your Visit",
+  "navigation": {
+    "services": "Services",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "cta": "Book Now"
+  },
+  "sections": {
+    "services": {
+      "eyebrow": "What We Offer",
+      "title": "Signature Services",
+      "description": "Every service begins with a personal consultation to understand your style, texture, and vision."
+    },
+    "gallery": {
+      "eyebrow": "Portfolio",
+      "title": "The Gallery",
+      "description": "A glimpse into our craft, creative vision, and the transformations we create every day.",
+      "instagramLabel": "Follow on Instagram",
+      "instagramHandle": "@testsalon"
+    },
+    "contact": {
+      "eyebrow": "Get in Touch",
+      "title": "Contact & Hours",
+      "description": "We look forward to welcoming you. Reach out to schedule your next appointment.",
+      "hoursHeading": "Hours",
+      "phoneHeading": "Phone",
+      "addressHeading": "Location"
+    }
+  },
+  "footer": {
+    "tagline": "Elevating beauty, one visit at a time.",
+    "rights": "All rights reserved."
+  },
+  "currencySymbol": "$",
+  "businessHours": [
+    { "day": "Monday", "hours": "9:00 AM – 7:00 PM" },
+    { "day": "Tuesday", "hours": "9:00 AM – 7:00 PM" },
+    { "day": "Wednesday", "hours": "9:00 AM – 7:00 PM" },
+    { "day": "Thursday", "hours": "9:00 AM – 8:00 PM" },
+    { "day": "Friday", "hours": "9:00 AM – 8:00 PM" },
+    { "day": "Saturday", "hours": "8:00 AM – 6:00 PM" },
+    { "day": "Sunday", "hours": "Closed" }
+  ],
+  "phone": "(555) 123-4567",
+  "address": "123 Main Street, Suite 100, Your City, ST 12345",
+  "galleryItems": [
+    { "id": 1, "caption": "Balayage transformation" },
+    { "id": 2, "caption": "Precision cut & style" },
+    { "id": 3, "caption": "Bridal styling" },
+    { "id": 4, "caption": "Color refresh" },
+    { "id": 5, "caption": "Evening blowout" },
+    { "id": 6, "caption": "Men's grooming" }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "name": "Women's Haircut",
+      "price": 65,
+      "description": "Consultation, shampoo, precision cut, and blow-dry finish."
+    },
+    {
+      "id": 2,
+      "name": "Men's Haircut",
+      "price": 40,
+      "description": "Classic or modern cut with hot towel finish and styling."
+    },
+    {
+      "id": 3,
+      "name": "Full Color",
+      "price": 120,
+      "description": "All-over color application with conditioning treatment."
+    },
+    {
+      "id": 4,
+      "name": "Highlights",
+      "price": 150,
+      "description": "Partial or full highlights for dimension and brightness."
+    },
+    {
+      "id": 5,
+      "name": "Blowout & Style",
+      "price": 45,
+      "description": "Shampoo, blow-dry, and polished styling for any occasion."
+    }
+  ]
+}
